@@ -12,5 +12,5 @@
    - Get headlines
    - Organize in a Pandas DataFrame format
 2. Score market **Model**
-   - Need a *y*! => stock market price daily data
+   - Need a *y*! => stock market price daily data => Alpha Vantage
 3. Get positive and negative individuals
