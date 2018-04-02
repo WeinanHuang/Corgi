@@ -11,8 +11,5 @@
    - Use Reuters News API
    - Get headlines
    - Organize in a Pandas DataFrame format
-
-2. Score market  **Model**
-   - 
-
+2. Score market **Model**
 3. Get positive and negative individuals
